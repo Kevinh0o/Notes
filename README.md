@@ -7,7 +7,10 @@ Aplicativo para fazer anotações que funciona com autenticação.
 
 ### Funcionalidades
 <ul>
-  <li> O App tem uma lista para selecionar uma de várias raças que estão presentes na API. </ li>
+  <li> O App tem uma autenticação gerenciada pelo firebase. </ li>
+  <li> O App tem funcionalidade de recuperação de senha. </ li>
+  <li> O App tem banco de dados gerenciado pelo firestore para armazenar os dados das notas. </ li>
+  <li> Criação e exclusão de notas. </ li> 
 </ul>
 
 ### Tecnologias e ferramentas
